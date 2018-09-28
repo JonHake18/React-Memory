@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Bender",
+    "image": "./assets/images/bender.png"
+  },
+  {
+    "id": 2,
+    "name": "Calculon",
+    "image": "./assets/images/calculon.png"
+  },
+  {
+    "id": 3,
+    "name": "Clamps",
+    "image": "./assets/images/clamps.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Clone",
+    "image": "./assets/images/clone.png"
+  },
+  {
+    "id": 5,
+    "name": "devilBot",
+    "image": "./assets/images/devilBot.png"
+  },
+  {
+    "id": 6,
+    "name": "Fat Bot",
+    "image": "./assets/images/fatBot.png"
+  },
+  {
+    "id": 7,
+    "name": "fry",
+    "image": "./assets/images/fry.png"
+  },
+  {
+    "id": 8,
+    "name": "Guenter",
+    "image": "./assets/images/guenter.png"
+  },
+  {
+    "id": 9,
+    "name": "Hermes",
+    "image": "./assets/images/hermes.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Hypnotoad",
+    "image": "./assets/images/hypnotoad.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Kif",
+    "image": "./assets/images/kif.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Leela",
+    "image": "./assets/images/leela.png"
+  },
+  {
+    "id": 13,
+    "name": "Lrrr",
+    "image": "./assets/images/lrrr.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Mom",
+    "image": "./assets/images/mom.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Morbo",
+    "image": "./assets/images/morbo.png"
+  },
+  {
+    "id": 16,
+    "name": "Nibbler",
+    "image": "./assets/images/nibbler.png"
+  },
+  {
+    "id": 17,
+    "name": "Professor",
+    "image": "./assets/images/professor.png"
+  },
+  {
+    "id": 18,
+    "name": "Roberto",
+    "image": "./assets/images/roberto.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Scruffy",
+    "image": "./assets/images/scruffy.png"
+  },
+  {
+    "id": 20,
+    "name": "Zapp",
+    "image": "./assets/images/zapp.png"
+  },
+  {
+    "id": 21,
+    "name": "Zoidberg",
+    "image": "./assets/images/zoidberg.png"
+  }
+]
