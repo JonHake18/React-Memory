@@ -2,12 +2,12 @@
   {
     "id": 1,
     "name": "Bender",
-    "image": "./assets/images/bender.png"
+    "image": "../public/assets/images/bender.png"
   },
   {
     "id": 2,
     "name": "Calculon",
-    "image": "./assets/images/calculon.png"
+    "image": "./public/assets/images/calculon.png"
   },
   {
     "id": 3,
