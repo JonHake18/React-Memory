@@ -2,27 +2,27 @@
   {
     "id": 1,
     "name": "Bender",
-    "image": "public/assets/images/bender.png"
+    "image": "public/images/bender.png"
   },
   {
     "id": 2,
     "name": "Calculon",
-    "image": "./public/assets/images/calculon.png"
+    "image": "./public/images/calculon.png"
   },
   {
     "id": 3,
     "name": "Clamps",
-    "image": "../public/assets/images/clamps.jpg"
+    "image": "../public/images/clamps.jpg"
   },
   {
     "id": 4,
     "name": "Clone",
-    "image": "assets/images/clone.png"
+    "image": "/images/clone.png"
   },
   {
     "id": 5,
     "name": "devilBot",
-    "image": "./assets/images/devilBot.png"
+    "image": "./images/devilBot.png"
   },
   {
     "id": 6,
