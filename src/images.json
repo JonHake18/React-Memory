@@ -2,17 +2,17 @@
   {
     "id": 1,
     "name": "Bender",
-    "image": "./assets/images/bender.PNG"
+    "image": "public/assets/images/bender.PNG"
   },
   {
     "id": 2,
     "name": "Calculon",
-    "image": "./assets/images/calculon.PNG"
+    "image": "./public/assets/images/calculon.PNG"
   },
   {
     "id": 3,
     "name": "Clamps",
-    "image": "./assets/images/clamps.JPG"
+    "image": "../public/assets/images/clamps.JPG"
   },
   {
     "id": 4,
