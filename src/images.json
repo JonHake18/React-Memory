@@ -2,106 +2,106 @@
   {
     "id": 1,
     "name": "Bender",
-    "image": "public/assets/images/bender.png"
+    "image": "./assets/images/bender.PNG"
   },
   {
     "id": 2,
     "name": "Calculon",
-    "image": "./assets/images/calculon.png"
+    "image": "./assets/images/calculon.PNG"
   },
   {
     "id": 3,
     "name": "Clamps",
-    "image": "./assets/images/clamps.jpg"
+    "image": "./assets/images/clamps.JPG"
   },
   {
     "id": 4,
     "name": "Clone",
-    "image": "./assets/images/clone.png"
+    "image": "./assets/images/clone.PNG"
   },
   {
     "id": 5,
     "name": "devilBot",
-    "image": "./assets/images/devilBot.png"
+    "image": "./assets/images/devilBot.PNG"
   },
   {
     "id": 6,
     "name": "Fat Bot",
-    "image": "./assets/images/fatBot.png"
+    "image": "./assets/images/fatBot.PNG"
   },
   {
     "id": 7,
     "name": "fry",
-    "image": "./assets/images/fry.png"
+    "image": "./assets/images/fry.PNG"
   },
   {
     "id": 8,
     "name": "Guenter",
-    "image": "./assets/images/guenter.png"
+    "image": "./assets/images/guenter.PNG"
   },
   {
     "id": 9,
     "name": "Hermes",
-    "image": "./assets/images/hermes.jpg"
+    "image": "./assets/images/hermes.JPG"
   },
   {
     "id": 10,
     "name": "Hypnotoad",
-    "image": "./assets/images/hypnotoad.jpg"
+    "image": "./assets/images/hypnotoad.JPG"
   },
   {
     "id": 11,
     "name": "Kif",
-    "image": "./assets/images/kif.jpg"
+    "image": "./assets/images/kif.JPG"
   },
   {
     "id": 12,
     "name": "Leela",
-    "image": "./assets/images/leela.png"
+    "image": "./assets/images/leela.PNG"
   },
   {
     "id": 13,
     "name": "Lrrr",
-    "image": "./assets/images/lrrr.jpg"
+    "image": "./assets/images/lrrr.JPG"
   },
   {
     "id": 14,
     "name": "Mom",
-    "image": "./assets/images/mom.jpg"
+    "image": "./assets/images/mom.JPG"
   },
   {
     "id": 15,
     "name": "Morbo",
-    "image": "./assets/images/morbo.png"
+    "image": "./assets/images/morbo.PNG"
   },
   {
     "id": 16,
     "name": "Nibbler",
-    "image": "./assets/images/nibbler.png"
+    "image": "./assets/images/nibbler.PNG"
   },
   {
     "id": 17,
     "name": "Professor",
-    "image": "./assets/images/professor.png"
+    "image": "./assets/images/professor.PNG"
   },
   {
     "id": 18,
     "name": "Roberto",
-    "image": "./assets/images/roberto.jpg"
+    "image": "./assets/images/roberto.JPG"
   },
   {
     "id": 19,
     "name": "Scruffy",
-    "image": "./assets/images/scruffy.png"
+    "image": "./assets/images/scruffy.PNG"
   },
   {
     "id": 20,
     "name": "Zapp",
-    "image": "./assets/images/zapp.png"
+    "image": "./assets/images/zapp.PNG"
   },
   {
     "id": 21,
     "name": "Zoidberg",
-    "image": "./assets/images/zoidberg.png"
+    "image": "./assets/images/zoidberg.PNG"
   }
 ]
